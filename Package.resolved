@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "c",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/0xOpenBytes/c",
+      "state" : {
+        "revision" : "c3560cbb17338ba6d2ff74b5ffd1a7b5db8d5ddd",
+        "version" : "0.2.0"
+      }
+    },
+    {
+      "identity" : "o",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/0xOpenBytes/o",
+      "state" : {
+        "revision" : "58e47469bdb61537d7687c7eb4b600db9de476ee",
+        "version" : "0.1.0"
+      }
+    },
+    {
+      "identity" : "t",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/0xOpenBytes/t",
+      "state" : {
+        "revision" : "78294df737c524f40267bca42beb8e10ca28aa41",
+        "version" : "0.2.0"
+      }
+    }
+  ],
+  "version" : 2
+}
