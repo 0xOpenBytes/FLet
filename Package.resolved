@@ -1,32 +1,34 @@
 {
-  "pins" : [
-    {
-      "identity" : "c",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/0xOpenBytes/c",
-      "state" : {
-        "revision" : "c3560cbb17338ba6d2ff74b5ffd1a7b5db8d5ddd",
-        "version" : "0.2.0"
+  "object": {
+    "pins": [
+      {
+        "package": "c",
+        "repositoryURL": "https://github.com/0xOpenBytes/c",
+        "state": {
+          "branch": null,
+          "revision": "9477c47d3802d983580fb0770c9869c9e9330a37",
+          "version": "0.3.0"
+        }
+      },
+      {
+        "package": "o",
+        "repositoryURL": "https://github.com/0xOpenBytes/o",
+        "state": {
+          "branch": null,
+          "revision": "2721b5d5feab371ab6e6999a557f9c80f0426228",
+          "version": "0.2.1"
+        }
+      },
+      {
+        "package": "t",
+        "repositoryURL": "https://github.com/0xOpenBytes/t",
+        "state": {
+          "branch": null,
+          "revision": "78294df737c524f40267bca42beb8e10ca28aa41",
+          "version": "0.2.0"
+        }
       }
-    },
-    {
-      "identity" : "o",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/0xOpenBytes/o",
-      "state" : {
-        "revision" : "760c971650413d30c2edba6090fd92ce0720b8a0",
-        "version" : "0.2.0"
-      }
-    },
-    {
-      "identity" : "t",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/0xOpenBytes/t",
-      "state" : {
-        "revision" : "78294df737c524f40267bca42beb8e10ca28aa41",
-        "version" : "0.2.0"
-      }
-    }
-  ],
-  "version" : 2
+    ]
+  },
+  "version": 1
 }
