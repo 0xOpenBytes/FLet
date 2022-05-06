@@ -19,7 +19,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/0xOpenBytes/t", from: "0.2.0"),
-        .package(url: "https://github.com/0xOpenBytes/c", from: "0.3.0"),
+        .package(url: "https://github.com/0xOpenBytes/c", from: "1.0.0"),
         .package(url: "https://github.com/0xOpenBytes/o", from: "0.2.1")
     ],
     targets: [
